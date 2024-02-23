@@ -8,7 +8,7 @@ QUESTIONS TO ANSWER
 3. In correlation with the artist's heightened popularity following the commencement of public re-recordings, is there a discernible enhancement in her acoustics and overall music quality?
 
 HYPOTHESIS
-1. All of her most popular albums in 2024 are post re-recordings.
+1. All the albums garnering the highest popularity in 2024 are subsequent to the artist's re-recordings.
 
 <img width="248" alt="Screenshot 2024-02-23 at 3 26 14 PM" src="https://github.com/lucyvieira3/Spotify-Music-Artist-Analysis/assets/153330654/a749663a-d171-47bd-9a91-dec4d777e325">
 
