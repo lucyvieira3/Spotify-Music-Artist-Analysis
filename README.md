@@ -3,9 +3,9 @@
 This project delves into a comprehensive analysis of music streaming data on Spotify, comparing the original versions of well-known songs with their re-recordings. The focus lies on exploring the dynamics of popularity trends and the evolution of acoustic elements, providing insights into how these factors influence listener preferences and contribute to the overall musical landscape.
 
 QUESTIONS TO ANSWER
-1. How has her music re-recordings influenced the artist most popular albums in 2024?
-2. Comparing the original albums to the new recordings, how has the popularity of her songs increased?
-3. If the artist popularity has increased since she publicly started re-recording her music, has her acoustics and music quality excelled as well?
+1. What impact have the re-recordings of her music had on the popularity of the artist's most prominent albums in 2024?
+2. Through a comparative analysis of the original albums and their re-recorded counterparts, how has the popularity of the artist's songs demonstrated growth?
+3. In correlation with the artist's heightened popularity following the commencement of public re-recordings, is there a discernible enhancement in her acoustics and overall music quality?
 
 HYPOTHESIS
 1. All of her most popular albums in 2024 are post re-recordings.
