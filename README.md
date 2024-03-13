@@ -41,7 +41,7 @@ SUMMARY
 <img width="1432" alt="Screenshot 2024-02-23 at 3 26 08 PM" src="https://github.com/lucyvieira3/Spotify-Music-Artist-Analysis/assets/153330654/24903f67-b205-44dd-8329-bfc41221a845">
 
 SOFTWARE USED:
-Dbeaver - SQL, Tableau.
+Dbeaver - SQL, Tableau, Excel.
 
 DATASET USED
 https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset
